@@ -1,2 +1,2 @@
 # cryptology_lab
-HITSZ2024密码学基础实验代码
+HITSZ 2024 密码学基础 实验代码
